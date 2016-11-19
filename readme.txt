@@ -6,3 +6,4 @@ Creating a new branch is quick
 Creating a new branch is quick and simple.
 Try no-ff model.
 Working on dev.
+add /usr/bin/env
