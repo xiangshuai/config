@@ -1,0 +1,7 @@
+# python: html -> dom
+Beautiful Soup VS lxml
+1. https://www.crummy.com/software/BeautifulSoup/bs3/documentation.html#Parsing%20HTML
+2. http://lxml.de/installation.html
+3. http://www.ianbicking.org/blog/2008/12/lxml-an-underappreciated-web-scraping-library.html
+4. https://www.crummy.com/software/BeautifulSoup/
+5. http://stackoverflow.com/questions/2782097/python-is-there-a-built-in-package-to-parse-html-into-dom
